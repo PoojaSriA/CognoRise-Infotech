@@ -1,1 +1,1 @@
-# CognoRise-Infotech
+# Spam Detection
